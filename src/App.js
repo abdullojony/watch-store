@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import WatchStoreApp from './watch-store-app.tsx';
+import WatchStoreApp from './WatchStoreApp.tsx';
 
 function App() {
   return (
